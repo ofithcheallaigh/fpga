@@ -84,4 +84,4 @@ end architecture;
 
 -- Note 2:
 -- Variables are updated instantly, signals are only uploaded when the process goes to sleep,
--- for example, with a wait statement
+-- for example, with a wait statement.
