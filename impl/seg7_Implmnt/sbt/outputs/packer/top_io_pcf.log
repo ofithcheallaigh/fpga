@@ -1,0 +1,8 @@
+OUTPUT segments[5] 	 location (13, 7, 0) 	 88 	 
+OUTPUT segments[1] 	 location (13, 4, 0) 	 79 	 
+OUTPUT segments[6] 	 location (13, 7, 1) 	 90 	 
+OUTPUT segments[4] 	 location (13, 6, 1) 	 87 	 
+OUTPUT segments[2] 	 location (13, 4, 1) 	 80 	 
+OUTPUT segments[0] 	 location (13, 3, 1) 	 78 	 
+OUTPUT digit_sel 	 location (13, 8, 0) 	 91 	 
+OUTPUT segments[3] 	 location (13, 6, 0) 	 81 	 

@@ -1,0 +1,2 @@
+@W: CL240 :"C:\Users\ofith\OneDrive\Documents\Projects\FPGAs\Lattice\seg7\src\top.vhd":30:4:30:12|Signal digit_sel is floating; a simulation mismatch is possible.
+

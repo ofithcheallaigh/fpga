@@ -1,0 +1,4 @@
+@E: CG103 :"C:\Users\ofith\OneDrive\Documents\Projects\FPGAs\Lattice\seg7\src\top.vhd":66:23:66:23|Expecting expression
+@E: CD424 :"C:\Users\ofith\OneDrive\Documents\Projects\FPGAs\Lattice\seg7\src\top.vhd":98:16:98:16|Expecting architecture identifier
+@E: Parse errors encountered - exiting
+

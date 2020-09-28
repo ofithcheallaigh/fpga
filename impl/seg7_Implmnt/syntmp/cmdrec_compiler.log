@@ -1,0 +1,7 @@
+C:\lscc\iCEcube2.2017.08\synpbase\bin64\c_hdl.exe  -osyn  C:\Users\ofith\OneDrive\Documents\Projects\FPGAs\Lattice\seg7\impl\seg7_Implmnt\synwork\seg7_comp.srs  -hdllog  C:\Users\ofith\OneDrive\Documents\Projects\FPGAs\Lattice\seg7\impl\seg7_Implmnt\synlog\seg7_compiler.srr  -encrypt  -mp  4  -verification_mode 0  -vhdl  -prodtype  synplify_pro  -primux -fixsmult -infer_seqShift -ice -sdff_counter -nram -divnmod -nostructver  -encrypt  -pro  -dmgen  C:\Users\ofith\OneDrive\Documents\Projects\FPGAs\Lattice\seg7\impl\seg7_Implmnt\dm  -lite -ui -fid2 -ram -sharing on -ll 2000 -autosm  -ignore_undefined_lib  -lib work C:\Users\ofith\OneDrive\Documents\Projects\FPGAs\Lattice\seg7\src\top.vhd 
+rc:0 success:1 runtime:1
+file:C:\Users\ofith\OneDrive\Documents\Projects\FPGAs\Lattice\seg7\impl\seg7_Implmnt\synwork\seg7_comp.srs|io:o|time:1600287087|size:1672|exec:0
+file:C:\Users\ofith\OneDrive\Documents\Projects\FPGAs\Lattice\seg7\impl\seg7_Implmnt\synlog\seg7_compiler.srr|io:o|time:1600287087|size:3349|exec:0
+file:C:\Users\ofith\OneDrive\Documents\Projects\FPGAs\Lattice\seg7\src\top.vhd|io:i|time:1600287060|size:3198|exec:0
+file:C:\lscc\iCEcube2.2017.08\synpbase\bin\c_hdl.exe|io:i|time:1600169306|size:1338368|exec:1
+file:C:\lscc\iCEcube2.2017.08\synpbase\bin64\c_hdl.exe|io:i|time:1600169307|size:1754112|exec:1

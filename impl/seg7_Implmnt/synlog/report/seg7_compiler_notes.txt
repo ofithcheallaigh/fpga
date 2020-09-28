@@ -1,0 +1,11 @@
+@N|Running in 64-bit mode
+@N|Running in 64-bit mode
+@N: CD720 :"C:\lscc\iCEcube2.2017.08\synpbase\lib\vhd\std.vhd":123:18:123:21|Setting time resolution to ps
+@N:"C:\Users\ofith\OneDrive\Documents\Projects\FPGAs\Lattice\seg7\src\top.vhd":22:7:22:9|Top entity is set to top.
+@N: CD630 :"C:\Users\ofith\OneDrive\Documents\Projects\FPGAs\Lattice\seg7\src\top.vhd":22:7:22:9|Synthesizing work.top.rtl.
+@N: CL159 :"C:\Users\ofith\OneDrive\Documents\Projects\FPGAs\Lattice\seg7\src\top.vhd":27:4:27:6|Input clk is unused.
+@N: CL159 :"C:\Users\ofith\OneDrive\Documents\Projects\FPGAs\Lattice\seg7\src\top.vhd":28:4:28:8|Input rst_n is unused.
+@N|Running in 64-bit mode
+@N: NF107 :"C:\Users\ofith\OneDrive\Documents\Projects\FPGAs\Lattice\seg7\src\top.vhd":22:7:22:9|Selected library: work cell: top view rtl as top level
+@N: NF107 :"C:\Users\ofith\OneDrive\Documents\Projects\FPGAs\Lattice\seg7\src\top.vhd":22:7:22:9|Selected library: work cell: top view rtl as top level
+
