@@ -1,3 +1,2 @@
 # Read me
-More information to come      
-More to come
+This project is running a simple seven segment display on the Lattice iCEstick FPGA development kit.
