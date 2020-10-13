@@ -27,7 +27,6 @@ architecture sim of top_tb is
   signal segments : std_logic_vector(6 downto 0);
   signal digit_sel : std_logic;
 
-  signal sig : integer := 0;
 
 begin
 
@@ -48,29 +47,13 @@ begin
 
   RESET_PROC : process                                  -- Sensitivity list removed, not typically used in TB
   begin
-    wait for 10 ns;
+    wait until clk = '1';                              -- This onlt takes effect on a change to 1, will not work if already 1
+    wait until clk = '1';
+    wait until clk = '1';
+    wait until clk = '1';
+    wait until clk = '1';
     rst_n <= '1';                                       -- Out of reset after 10 ns
     wait;                                               -- Keyword 'wait' means prcoess will stop here and not loop to repeat
-  end process;
-
-  TEMP_PROC : process
-    variable var : integer := 0;                      -- Variables can be declared within the process
-  begin
-
-    var := 0;                                         -- Variables are assigned using :=,
-    sig <= 0;                                         -- Signals are assigned using <=
-
-    wait for 10 ns;
-
-    var := var + 1;                                     -- We cannot use var++, this does not exist in vhdl
-    sig <= sig + 1;
-
-    var := var + 1;                                     -- We cannot use var++, this does not exist in vhdl
-    sig <= sig + 1;
-    
-
-
-    wait; 
   end process;
 
 end architecture;
