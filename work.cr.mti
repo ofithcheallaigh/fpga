@@ -1,0 +1,20 @@
+C:/Users/ofith/OneDrive/Documents/Projects/FPGAs/Lattice/Lattice_iCEstick_seg7/src/top.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/ofith/OneDrive/Documents/Projects/FPGAs/Lattice/Lattice_iCEstick_seg7/src/top.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity top
+-- Compiling architecture rtl of top
+
+} {} {}} C:/Users/ofith/OneDrive/Documents/Projects/FPGAs/Lattice/Lattice_iCEstick_seg7/src/top_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/ofith/OneDrive/Documents/Projects/FPGAs/Lattice/Lattice_iCEstick_seg7/src/top_tb.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity top_tb
+-- Compiling architecture sim of top_tb
+-- Loading entity top
+
+} {} {}}
